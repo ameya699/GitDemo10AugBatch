@@ -1,0 +1,25 @@
+* [33m41d3d84[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m Adding to remote master
+* [33mb25c698[m[33m ([m[1;33mtag: V1.1[m[33m, [m[1;32mbug2[m[33m)[m Appended last line
+* [33m9d8c88c[m Updated all capital characters
+* [33m9562c88[m Updated all small letters
+* [33m02ce9d5[m CR2:File updated for rebase with conflict, all first letters small.
+*   [33m5383c76[m Resolved the issue
+[32m|[m[33m\[m  
+[32m|[m * [33mc8a4fc2[m added full stop at last line
+[32m|[m * [33m8741ee6[m Bug2:File1 modified with bug 2 infected to see 3 way merge with conflict
+* [33m|[m [33m0c4718b[m added one more full stop at last line
+* [33m|[m [33m1cec7d1[m CR1 File1 was updated by team member added from master
+[33m|[m[33m/[m  
+*   [33m1bd870f[m[33m ([m[1;33mtag: v1.0[m[33m)[m Merge branch 'bug1'
+[34m|[m[35m\[m  
+[34m|[m * [33m09c4044[m Bug1: bug1 is fixed
+* [35m|[m [33m5190f47[m commit
+[35m|[m[35m/[m  
+* [33mf0f766f[m solved the merge issue
+* [33m9312c61[m WI4 verified the revert command
+* [33m42d828f[m WI3: file added for demo of delete.
+* [33mdc23084[m added random words
+* [33mbe25ae7[m added .gitignore with .class and .log exceptions
+* [33m120c1ad[m WI1: File1 updated ,with update3 as string!
+* [33mfb6bbdb[m WI1: File1 updated ,with welcome message!
+* [33mcb64e03[m WI1: File1 created ,with welcome message!
