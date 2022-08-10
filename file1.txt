@@ -1,17 +1,16 @@
-adding bug to this
+Adding bug to this
 
-update 3 hello welcome
+Update 3 hello welcome
 
-sdfsf
+Sdfsf
 
-adding this line to see the git dif command
+Adding this line to see the git dif command
 
-hello welcome
+Hello welcome
 
 
-bug1 is fixed..
+Bug1 is fixed.
 
-bug1 is fixed.
 
 
 
