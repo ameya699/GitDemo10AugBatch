@@ -8,6 +8,6 @@ adding this line to see the git dif command
 
 hello welcome
 
-bug1 is fixed
+bug1 is fixed..
 
-modified from master
+
