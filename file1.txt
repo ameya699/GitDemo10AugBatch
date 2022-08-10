@@ -7,3 +7,4 @@ adding this line to see the git dif command
 
 hello welcome
 
+bug1 is fixed
